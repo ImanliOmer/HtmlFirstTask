@@ -1,0 +1,44 @@
+.parent{
+    border: 1px solid black;
+    width: 40%;
+    height: 800px;
+}
+
+.parent img {
+    width: 150px ;
+}
+
+.childeren{
+    background-color: gray;
+    border: 1px solid black;
+    width: 40%;
+    height: 800px;
+}
+.childeren img{
+    position: relative;
+    left: 75px;
+    top: 50px;
+}
+.childe2{
+    margin-top: 100px;
+}
+
+#fulName{
+    position: relative;
+    left: 400px;
+    bottom: 690px;
+}
+
+#job{
+    position: relative;
+    left: 400px;
+    bottom: 695px;
+
+}
+
+.childe3{
+    width: 200px;
+    position: relative;
+    left: 400px;
+    bottom: 650px;
+}
